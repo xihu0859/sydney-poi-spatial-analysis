@@ -1,0 +1,14 @@
+# Full notebook environment. Python 3.11+ recommended.
+# The standard-library verifier requires no packages.
+pandas>=2.2,<3
+numpy>=1.26,<3
+matplotlib>=3.8,<4
+missingno>=0.5,<1
+geopandas>=1.0,<2
+shapely>=2.0,<3
+requests>=2.31,<3
+SQLAlchemy>=2.0,<3
+GeoAlchemy2>=0.14,<1
+psycopg2-binary>=2.9,<3
+folium>=0.16,<1
+jupyterlab>=4,<5
