@@ -1,0 +1,27 @@
+# Local credentials and environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+__MACOSX/
+Thumbs.db
+
+# Regenerated runs and large upstream downloads
+results/reproduced/
+data/downloads/
+*.zip
+*.shp
+*.shx
+*.dbf
+*.prj
+*.xml
+
+# Assignment instructions and local drafts
+DATA2x01_Group_Assignment*.pdf
+2001.ipynb
+2001assignment.ipynb

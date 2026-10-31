@@ -1,0 +1,6 @@
+derived_statistic,formula,purpose,data_level
+Population growth rate,(Population_t - Population_t-1) / Population_t-1 * 100,Measures annual NSW population growth.,NSW state-level
+Female-to-male population ratio,Female population / Male population,Compares female and male population sizes.,NSW state-level
+Natural increase,Births - Deaths,Measures natural population increase before migration effects.,NSW state-level
+"Businesses per 1,000 people",Total businesses / Population * 1000,Measures business density relative to population size.,NSW state-level
+"House transfers per 1,000 people",House transfers / Population * 1000,Measures housing market transaction activity relative to population size.,NSW state-level
