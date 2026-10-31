@@ -87,6 +87,6 @@ Download `results/maps/interactive_well_resourced_score_map.html` and open it in
 | `results/figures/` and `results/maps/` | Static map, interactive map and GeoJSON |
 | `reports/` | Team report with duplicate and blank pages removed |
 
-The assignment specification PDF, draft notebooks, duplicate reports, ZIP archives, system files and the 70 MB national shapefile are excluded. A compact, full-detail subset of the 128 study polygons supports reproduction without downloading all of Australia.
+The 70 MB national shapefile is excluded. A compact, full-detail subset of the 128 study polygons supports reproduction without downloading all of Australia.
 
 Data comes from **ABS Data by Region**, **ABS ASGS Edition 3 SA2 boundaries (2021)**, and **NSW Spatial Services Points of Interest**. This repository includes transformed and aggregated data; government sources do not endorse the analysis. Source links, licences and field definitions are in [data documentation](docs/data.md). Code and report authorship remains with the project contributors; upstream data retains its own terms. No blanket software licence has been assigned to team-authored material.
